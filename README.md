@@ -1,11 +1,9 @@
 # lab01 - sumador
 
-## nombres
+## Nombres
 - Diego Vitoviz.
 - Paula Ruiz.
 - Duvan.
 
 
-## informe de laoratorio 
-
-### sumador 
+## Informe de laboratorio 
