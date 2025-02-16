@@ -121,7 +121,7 @@ En la siguiente imagen observamos las señales de entrada y salida del módulo d
 
 La gráfica resultante muestra las combinaciones posibles de las entradas y cómo se calculan las salidas (`S` y `Cout`) en cada caso.
 
-![Gráfica de sumador](./pictures/Sumador_1_Bit.jpg)
+![Gráfica de sumador](Sumador_1_Bit.jpg)
 
 Finalmente, verificamos que el sumador cumple con la tabla de verdad esperada:
 
