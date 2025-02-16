@@ -117,7 +117,7 @@ Utilizamos el entorno de Questat para validar el funcionamiento del sumador. For
 ### Resultados de la simulación
 En la siguiente imagen observamos las señales de entrada y salida del módulo durante la simulación:
 
-![Simulación 1](Simulación.png)
+![Simulación 1](sm1bcc.png)
 
 La gráfica resultante muestra las combinaciones posibles de las entradas y cómo se calculan las salidas (`S` y `Cout`) en cada caso.
 
